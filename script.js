@@ -29,6 +29,6 @@ for (let i = 0; i < encodedStr.length; i++) {
 // You can test your code by running the above function and printing it to console by pressing the run button at the top. To run it with input 36, uncomment the following line
 
 // console.log(rot13("SERR YBIR? NPPVBWBO"));
-console.log(rot13("SERR YBIR?")); // "FREE LOVE?"
-console.log(rot13("NPPVBWBO")); // "ACCIOMENT"
+console.log(rot13("SERR YBIR?")); 
+console.log(rot13("NPPVBWBO")); 
 module.exports = rot13;
